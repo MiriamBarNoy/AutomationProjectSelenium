@@ -1,0 +1,25 @@
+<config>
+    <set > Login </set>
+    <USERNAME>mmm@gmail.com</USERNAME>
+    <PASSWORD>Qwe123!!</PASSWORD>
+
+    <set > Wrong Login </set>
+    <USERNAME>mmmm@gmail.com</USERNAME>
+    <PASSWORD>Qwe123!!</PASSWORD>
+
+    <set>url sets</set>
+    <URL>https://account.next.co.il/en/MyAccount/OrderTracking</URL>
+    <URL>https://www.next.co.il/en/shop/department-homeware-feat-newin-0</URL>
+    <URL>https://www.next.co.il/en/shop/department-homeware-productaffiliation-livingroom-0</URL>
+    <URL>https://www.next.co.il/en/baby</URL>
+    <URL>https://www.next.co.il/he</URL>
+    <URL>https://account.next.co.il/en/login/Checkout</URL>
+    <URL>https://www.next.co.il/en/secure/checkout/payment</URL>
+
+
+   <set > Product Search </set>
+   <MODEL>m95666</MODEL>
+
+
+
+</config>
